@@ -8,5 +8,5 @@ Without index - http://udacity-mha.s3-website.eu-north-1.amazonaws.com/
 
 Cloudfront deployed URL - https://d3fs1z16uwja9l.cloudfront.net/index.html or https://d3fs1z16uwja9l.cloudfront.net/
 
-![Uploading image.png…]()
+![Uploading image.png…]
 
